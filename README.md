@@ -1,7 +1,7 @@
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
-Project Description
+#Project Description
 Cherie solves the "nothing to wear" paradox and decision fatigue by transforming a chaotic closet into an intelligent, body-aware ecosystem. Built with Gemini 3 Pro, it moves beyond generic organizing to personalized styling based on "Silhouette Theory" using AI reasoning to suggest cuts that scientifically flatter the user's specific geometry.
 Gemini’s Multimodal Vision instantly digitizes wardrobes without manual data entry. The app features a "Playhouse" for creative mix-and-match, a "Travel Packer" for context-aware planning, and a "Weekly Journal" to automate mornings. Crucially, Cherie drives sustainability through "Campus Thrift," a marketplace enabling a circular economy. Cherie empowers users to buy less, wear more, and shop with confidence.
 

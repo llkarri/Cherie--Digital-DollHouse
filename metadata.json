@@ -1,0 +1,8 @@
+{
+  "name": "Cherie | Personal AI Stylist",
+  "description": "A luxury, high-fashion personal stylist application powered by Gemini 3 Pro. Features wardrobe analysis, body type consultation, and investment piece advice.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
